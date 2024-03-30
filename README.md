@@ -1,4 +1,6 @@
 # Correlation and regression for data analysis
+Suchitra Nath - BTech IT 
+212223220112
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -25,5 +27,7 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 # Result
+![image](https://github.com/suchitranath/Correlation_Regression/assets/145742631/ac799655-3e44-4937-b6b5-d060d107a6ee)
 
 # Output 
+executed successfully
